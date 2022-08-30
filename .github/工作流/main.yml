@@ -1,7 +1,7 @@
 name: automation
 on:
   schedule:
-  - cron:  '22 06 * * *'
+  - cron:  '30 06 * * *'
   workflow_dispatch:
 jobs:
   send_message:
