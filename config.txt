@@ -2,8 +2,8 @@
 "app_id": "wx6363da8abecf7dd2",
 "app_secret": "35f92ec92fadc957c2c7073d871c59c9",
 
-"template_id": "JMf2Z-gKklmCEkGyiLS0T-fkf5uaMxw0l16177wFGVE",
-"user_id": ["1T_1Drw6L91FI33r9IjNc5eAYDMOGL9fyIIdYSULwNE"],
+"template_id": "1T_1Drw6L91FI33r9IjNc5eAYDMOGL9fyIIdYSULwNE",
+"user_id": ["ozN1X69CG66YpQxbFv610ho2HypE"],
 #"user_id": ["" , "请替换为自己的 微信号 02"],
 
 "C_ShengFen": "河南",
