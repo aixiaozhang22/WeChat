@@ -10,7 +10,7 @@
 "app_id": "wx6363da8abecf7dd2",
 "app_secret": "35f92ec92fadc957c2c7073d871c59c9",
 
-"template_id": "7_A-4Adm03cv_cGN0iWQ7rzaYGq4ouapx8DI1WiHmzY",
+"template_id": "JM-oqVTHIjJwRZrgrtFChTqjMGA9zeZcwU5Y7VsYy_4",
 "user_id": ["ozN1X69CG66YpQxbFv610ho2HypE"],
 #"user_id": ["" , "请替换为自己的 微信号 02"],
 
