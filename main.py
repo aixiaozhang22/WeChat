@@ -249,10 +249,10 @@ def send_message(to_user, access_token):
     C_Love = int(config["S_Love"].split("-")[2])
     S_Love = date(love_year, love_month, C_Love)
 # 获取在一起的日子的日期格式
-    love_year = int(config["S_Love"].split("-")[0])
-    love_month = int(config["S_Love"].split("-")[1])
-    C_Love1 = int(config["S_Love"].split("-")[2])
-    S_Love1 = date(love_year, love_month, C_Love)
+    love_year = int(config["S_Love1"].split("-")[0])
+    love_month = int(config["S_Love1"].split("-")[1])
+    C_Love1 = int(config["S_Love1"].split("-")[2])
+    S_Love1 = date(love_year, love_month, C_Love1)
     # 获取在一起的日期差
     love_days = str(today.__sub__(S_Love)).split(" ")[0]
     # 获取所有生日数据
