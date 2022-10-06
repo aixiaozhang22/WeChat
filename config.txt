@@ -12,10 +12,10 @@
 
 "S_Love": "2021-06-03",
 
-"birthday1": "2021-06-03",
+"birthday1": "",
 
 "C_String01": "",
-"C_String02": "2021-10-03",
+"C_String02": "",
 "C_String03": "",
 
 # 天气预报
